@@ -18,14 +18,14 @@
       "id": "3",
       "name": "Pasta Express",
       "description": "American, 4.5 stars",
-      "raiting": 3,
+      "raiting": 5,
       "url": "/pasta-express.png"
     },
     {
       "id": "4",
       "name": "Taco Fiesta",
       "description": "American, 4.8 stars",
-      "raiting": 4,
+      "raiting": 5,
       "url": "/taco-fiesta.png"
     }
   ]
