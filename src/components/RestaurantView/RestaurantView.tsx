@@ -62,7 +62,7 @@ export const RestaurantView = () => {
     return (
         <div>
             <InputSearch value={search} onChange={setSearch} />
-            <Cards restaurantList={filtered} onRate={(id, newRating, currentRating) => handleRaitingClick(id, newRating, currentRating)} />;
+            <Cards restaurantList={filtered} onRate={(id, newRating, currentRating) => handleRaitingClick(id, newRating, currentRating)} />
         </div>
     )
 };
